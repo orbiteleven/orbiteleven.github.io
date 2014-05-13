@@ -14,6 +14,7 @@ share: true
 A whole host of people have been sending me articles about the recent class-action settlement against Vibram over health claims made about their "FiveFinger" shoes. Folks who know me know that I'm a big proponent of them: I've been wearing them for over 4 years. I met my wife because of them. I'll continue wearing them despite this "finding".
 
 Some of the articles folks have sent me:
+
 * [Vibram, 'Barefoot Running Shoe' Company, Settles Multi-Million Dollar Lawsuit](http://www.huffingtonpost.com/2014/05/10/_n_5302213.html)
 * [FiveFingers Maker Will Pay Millions To Suckers Who Bought Its Shoes](http://fittish.deadspin.com/vibram-fivefingers-still-stupid-now-culpable-1572955736)
 * [Science, American legal system confirm barefoot shoes are bullshit](http://www.vox.com/2014/5/9/5695290/science-american-legal-system-confirm-that-barefoot-shoes-are-bullshit)
