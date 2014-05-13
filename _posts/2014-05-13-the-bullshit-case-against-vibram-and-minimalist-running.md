@@ -4,11 +4,11 @@ title: "The bullshit case against Vibram and minimalist running"
 modified: 2014-05-13 10:18:58 -0600
 tags: [running, vibram, fivefingers, rant]
 image:
-  feature:
-  credit:
-  creditlink:
+  feature: toeshoes.jpg
+  credit: Damon Toal-Rossi
+  creditlink: http://orbiteleven.com
 comments:
-share:
+share: true
 ---
 
 A whole host of people have been sending me articles about the recent class-action settlement against Vibram over health claims made about their "FiveFinger" shoes. Folks who know me know that I'm a big proponent of them: I've been wearing them for over 4 years. I met my wife because of them. I'll continue wearing them despite this "finding".
