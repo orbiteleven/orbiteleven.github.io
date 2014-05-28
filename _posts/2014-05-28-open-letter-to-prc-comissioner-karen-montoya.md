@@ -11,15 +11,14 @@ comments:
 share:
 ---
 
-Karen L. Montoya
-NM PRC Commissioner - District 1
-KarenL.Montoya@state.nm.us
-1120 Paseo De Peralta
-P.O. Box 1269
-Santa Fe, New Mexico 87504
-(505) 827-8015
+> Karen L. Montoya<br>NM PRC Commissioner - District 1  
+[KarenL.Montoya@state.nm.us](mailto:KarenL.Montoya@state.nm.us)  
+1120 Paseo De Peralta  
+P.O. Box 1269  
+Santa Fe, New Mexico 87504  
+(505) 827-8015  
 
-Hopefully you're getting a lot of information about the new transportation applications that have started operating in Albuquerque. My understanding is that the PRC has already told Lyft to stop operation and is investigating whether it will ask Uber to do the same [http://www.bizjournals.com/albuquerque/news/2014/05/23/state-wrecks-uber-s-smooth-ride.html]. While I appreciate that your commission is tasked with ensuring fair pricing and safe transit, I feel the PRC is misguided (likely at the behest of the entrenched Taxi Industry) in being so quick to shut down such innovative services. Uber, for example, manages to operate in over 110 cities world-wide, bringing jobs and safe transportation to many. [Here are some interesting stats on Uber's impact](http://blog.uber.com/uberimpact).
+Hopefully you're getting a lot of information about the new transportation applications that have started operating in Albuquerque. My understanding is that the PRC has already told Lyft to stop operation and is investigating whether [it will ask Uber to do the same](http://www.bizjournals.com/albuquerque/news/2014/05/23/state-wrecks-uber-s-smooth-ride.html). While I appreciate that your commission is tasked with ensuring fair pricing and safe transit, I feel the PRC is misguided (likely at the behest of the entrenched Taxi Industry) in being so quick to shut down such innovative services. Uber, for example, manages to operate in over 110 cities world-wide, bringing jobs and safe transportation to many. [Here are some interesting stats on Uber's impact](http://blog.uber.com/uberimpact).
 
 We both know how much of an issue DUI is in New Mexico. When Uber started operation in Seattle, [DUI decreased by more than 10%](http://blog.uber.com/DUIratesdecline). That's staggering. The fact is that while alternative transportation exists in taxis and the bus system, people do not choose those options. People choose Uber. Taking this option away from New Mexicans will send a very confusing message about where the PRC's priorities are when it comes to public safety.
 
