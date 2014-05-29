@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Letter to PRC Comissioner Karen Montoya"
+title: "Open Letter to PRC Commissioner Karen Montoya"
 modified: 2014-05-28 09:56:38 -0600
 tags: []
 image:
