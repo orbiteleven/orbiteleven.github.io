@@ -8,7 +8,7 @@ image:
   credit: Wikipedia
   creditlink: http://en.wikipedia.org/wiki/File:Albuquerque_pano_sunset.jpg
 comments:
-share:
+share: true
 ---
 
 > Karen L. Montoya<br>NM PRC Commissioner - District 1  
