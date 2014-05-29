@@ -4,9 +4,9 @@ title: "Open Letter to PRC Commissioner Karen Montoya"
 modified: 2014-05-28 09:56:38 -0600
 tags: []
 image:
-  feature:
-  credit:
-  creditlink:
+  feature: Albuquerque_pano_sunset.jpg
+  credit: Wikipedia
+  creditlink: http://en.wikipedia.org/wiki/File:Albuquerque_pano_sunset.jpg
 comments:
 share:
 ---
