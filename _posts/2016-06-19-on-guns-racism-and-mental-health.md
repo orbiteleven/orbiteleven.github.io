@@ -10,7 +10,7 @@ image:
 comments:
 share: true
 ---
-> I started this post over a year ago. 5/29/14. What's sad is that I had to look up which mass shooting happened around that time. http://shootingtracker.com/wiki/Mass_Shootings_in_2014 shows that there were plenty of shootings around that date. I've re-edited this to include my thoughts from the past year.
+> I started this post over a year ago. 5/29/14. What's sad is that I had to look up which mass shooting happened around that time. [http://shootingtracker.com/wiki/Mass_Shootings_in_2014](http://shootingtracker.com/wiki/Mass_Shootings_in_2014) shows that there were plenty of shootings around that date. I've re-edited this to include my thoughts from the past year.
 
 #Let's talk about guns, racism and mental health.#
 
@@ -22,12 +22,12 @@ Here's the thing: it ***is*** about mental health, but not in the way *The Right
 
 > Narcissistic personality disorder is a mental disorder in which people have an inflated sense of their own importance, a deep need for admiration and a lack of empathy for others. But behind this mask of ultraconfidence lies a fragile self-esteem that's vulnerable to the slightest criticism.
 
->http://www.mayoclinic.org/diseases-conditions/narcissistic-personality-disorder/basics/definition/con-20025568
+>[http://www.mayoclinic.org/diseases-conditions/narcissistic-personality-disorder/basics/definition/con-20025568](http://www.mayoclinic.org/diseases-conditions/narcissistic-personality-disorder/basics/definition/con-20025568)
 
 ###Paranoia###
 >Symptoms of paranoia and paranoid disorders include intense and irrational mistrust or suspicion, which can bring on sense of rage, hatred, and betrayal. Some people suffering from paranoid personality may have a high capacity to annoy or enrage others because of rigid and maladaptive behavior.
 
->http://www.mentalhealthamerica.net/conditions/paranoia-and-paranoid-disorders
+>[http://www.mentalhealthamerica.net/conditions/paranoia-and-paranoid-disorders](http://www.mentalhealthamerica.net/conditions/paranoia-and-paranoid-disorders)
 
 The NRA will tell you that "The only thing that stops a bad guy with a gun is a good guy with a gun". This is both *paranoid* and *narcissistic*. The idea is that if only more of us (white folks) were armed with guns, fewer of us would die at the hands of guns. It's on us to protect us. We're a nation build on the idea that we're self-reliant and that we overcame tyranny to achieve freedom. We're told to ignore the fact that it wasn't individuals that created America, it was the nation.
 
