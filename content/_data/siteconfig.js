@@ -26,7 +26,7 @@ module.exports = {
     // YouTube ID/Channel  (optional, remove it not needed), used for link in the left sidebar
     socialYouTube: "UCVrtTWfIZdrcG6yDB5DBGuQ",
     // Google Analytics ID  (optional, remove it not needed), used for... well, Google Analytics
-    googleAnalytics: "YOUR_GA-ID",
+    googleAnalytics: "G-N8SF2QW0ZE",
     // Algolia-powered search  (optional, remove it not needed),
     // See: https://github.com/algolia/algoliasearch-netlify
     algoliaSearch: {
