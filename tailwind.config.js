@@ -15,7 +15,7 @@ module.exports = {
             const extendUnderline = {
                 ".underline": {
                     textDecoration: "underline",
-                    "text-decoration-color": "text-indigo-300",
+                    "text-decoration-color": "text-blue-300",
                     "text-underline-position": "under"
                 }
             };
@@ -41,9 +41,9 @@ module.exports = {
             }),
             backgroundImage: () => ({
                 "sidebar-dark":
-                    "radial-gradient(circle, #242424 0%, #1d1f27 100%)",
+                    "radial-gradient(circle, #091C32 0%, #223C5B 100%)",
                 "sidebar-light":
-                    "radial-gradient(circle,rgba(42, 30, 107, 1) 0%,rgba(35, 37, 46, 1) 100%)"
+                    "radial-gradient(circle, #4E88D2 0%, #134998 100%)"
             }),
             borderWidth: (theme) => ({
                 ...theme("width"),
